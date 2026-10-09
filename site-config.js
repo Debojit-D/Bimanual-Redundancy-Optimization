@@ -1,16 +1,17 @@
 window.SITE_CONFIG = {
   project: {
     title: "Task-Specific Manipulability Metrics for Redundancy Optimization in Cooperative Manipulation",
-    status: "Accepted for publication · 05 Sep 2026",
+    status: "Published (EarlyCite), October 2026",
     venue: "Industrial Robot: The International Journal of Robotics Research and Application",
     venueUrl: "https://www.emeraldgrouppublishing.com/journal/ir"
   },
 
   resources: {
+    note: "The Accepted Manuscript is the author-accepted version, freely available under Green Open Access (CC BY-NC 4.0). The Published Version (DOI) is the publisher’s Version of Record on Emerald; it is not Gold Open Access, and access is subject to Emerald’s terms.",
     paper: {
-      url: null,
-      label: "Paper",
-      status: "Coming soon"
+      url: "papers/Das2026_IndustrialRobot_AAM.pdf",
+      label: "Accepted Manuscript (PDF)",
+      primary: true
     },
     code: {
       url: "https://github.com/Debojit-D/Bimanual-Redundancy-Optimization",
@@ -18,7 +19,7 @@ window.SITE_CONFIG = {
     },
     doi: {
       url: "https://doi.org/10.1108/IR-05-2026-0221",
-      label: "DOI"
+      label: "Published Version (DOI)"
     },
     video: {
       url: "https://youtu.be/CubFLF5DAzE",
@@ -82,12 +83,14 @@ window.SITE_CONFIG = {
 
   citation: {
     bibtex: `@article{das2026taskspecific,
-  title   = {Task-Specific Manipulability Metrics for Redundancy Optimization in Cooperative Manipulation},
-  author  = {Das, Debojit and S., Barat and Palanthandalam-Madapusi, Harish J.},
-  journal = {Industrial Robot: The International Journal of Robotics Research and Application},
-  year    = {2026},
-  doi     = {10.1108/IR-05-2026-0221},
-  note    = {Accepted for publication}
+  title     = {Task-Specific Manipulability Metrics for Redundancy Optimization in Cooperative Manipulation},
+  author    = {Das, Debojit and S., Barat and Palanthandalam-Madapusi, Harish J.},
+  journal   = {Industrial Robot: The International Journal of Robotics Research and Application},
+  publisher = {Emerald Publishing},
+  year      = {2026},
+  doi       = {10.1108/IR-05-2026-0221},
+  url       = {https://doi.org/10.1108/IR-05-2026-0221},
+  note      = {EarlyCite, published online 8 October 2026}
 }`
   },
 
