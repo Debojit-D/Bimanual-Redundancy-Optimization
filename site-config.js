@@ -7,7 +7,7 @@ window.SITE_CONFIG = {
   },
 
   resources: {
-    note: "The Accepted Manuscript is the author-accepted version, freely available under Green Open Access (CC BY-NC 4.0). The Published Version (DOI) is the publisher’s Version of Record on Emerald; it is not Gold Open Access, and access is subject to Emerald’s terms.",
+    note: "The Author Accepted Manuscript is freely available under Emerald’s Green Open Access policy (CC BY-NC 4.0). The publisher’s Version of Record is available via DOI.",
     paper: {
       url: "papers/Das2026_IndustrialRobot_AAM.pdf",
       label: "Accepted Manuscript (PDF)",

@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://debojit-d.github.io/Bimanual-Redundancy-Optimization/sitemap.xml
+Sitemap: https://debojit.in/Bimanual-Redundancy-Optimization/sitemap.xml

@@ -12,6 +12,6 @@ DOI: https://doi.org/10.1108/IR-05-2026-0221
 
 Author Accepted Manuscript (Green Open Access; not the publisher's Version of Record, which is at the DOI above): [`papers/Das2026_IndustrialRobot_AAM.pdf`](papers/Das2026_IndustrialRobot_AAM.pdf), deposited under [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) in line with Emerald Publishing's Green Open Access policy. The first page is a deposit cover page; the original manuscript pages follow unchanged.
 
-Published at: https://debojit-d.github.io/Bimanual-Redundancy-Optimization/
+Published at: https://debojit.in/Bimanual-Redundancy-Optimization/
 
 This branch (`gh-pages`) contains only the static website and is independent of the `main` branch, which holds the research code.
