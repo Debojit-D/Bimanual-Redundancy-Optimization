@@ -7,7 +7,7 @@ type: software
 version: 0.1.0
 license: Apache-2.0
 repository-code: "https://github.com/Debojit-D/Bimanual-Redundancy-Optimization"
-url: "https://debojit-d.github.io/Bimanual-Redundancy-Optimization/"
+url: "https://debojit.in/Bimanual-Redundancy-Optimization/"
 authors:
   - family-names: Das
     given-names: Debojit
@@ -31,6 +31,10 @@ preferred-citation:
     Industrial Robot: The International Journal of Robotics Research and
     Application
   year: 2026
+  status: advance-online-publication
+  date-published: 2026-10-08
+  doi: "10.1108/IR-05-2026-0221"
+  url: "https://doi.org/10.1108/IR-05-2026-0221"
   notes: >-
-    Provisionally accepted. DOI, volume, issue, and page numbers will be
-    added once available.
+    Published online (EarlyCite), October 8, 2026. Volume, issue, and page
+    numbers are pending assignment.

@@ -2,7 +2,8 @@
 
 Authoritative source: *Task-Specific Manipulability Metrics for Redundancy
 Optimization in Cooperative Manipulation* (Das, Barat S., Palanthandalam-
-Madapusi; IITGN Robotics Laboratory; *Industrial Robot*, final revision).
+Madapusi; IITGN Robotics Laboratory; *Industrial Robot*, published
+EarlyCite, October 2026).
 Equation numbers below are the manuscript's own numbers.
 
 ## Quick index
